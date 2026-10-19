@@ -1,0 +1,221 @@
+order_id,tanggal,kategori_produk,nama_produk,wilayah,jumlah,harga_satuan,total,metode_pembayaran,rating_pelanggan
+1146,2026-01-03,Olahraga,Matras Yoga,Malang,5,90000,450000,E-Wallet,4
+1166,2026-01-05,Fashion,Celana Jeans,Surabaya,5,175000,875000,Transfer Bank,5
+1190,2026-01-05,Kesehatan,Masker Medis Box,Semarang,4,30000,120000,Kartu Kredit,3
+1219,2026-01-08,Makanan & Minuman,Kopi Kemasan 200g,Bandung,4,28000,112000,E-Wallet,3
+1133,2026-01-10,Fashion,Tas Ransel,Surabaya,4,130000,520000,Kartu Kredit,4
+1220,2026-01-10,Makanan & Minuman,Teh Celup Box,Denpasar,2,18000,36000,Kartu Kredit,4
+1105,2026-01-14,Makanan & Minuman,Teh Celup Box,Denpasar,3,18000,54000,Transfer Bank,5
+1012,2026-01-15,Fashion,Kaos Polos,Surabaya,3,45000,135000,E-Wallet,3
+1022,2026-01-15,Fashion,Tas Ransel,Denpasar,3,130000,390000,Transfer Bank,4
+1114,2026-01-16,Fashion,Celana Jeans,Malang,1,175000,175000,Kartu Kredit,3
+1026,2026-01-17,Makanan & Minuman,Kopi Kemasan 200g,Medan,2,28000,56000,Transfer Bank,4
+1204,2026-01-17,Makanan & Minuman,Kopi Kemasan 200g,Malang,1,28000,28000,E-Wallet,4
+1128,2026-01-18,Makanan & Minuman,Teh Celup Box,Malang,1,18000,18000,Transfer Bank,5
+1163,2026-01-18,Olahraga,Botol Minum 1L,Medan,1,40000,40000,COD,3
+1027,2026-01-19,Elektronik,Power Bank 10000mAh,Makassar,3,120000,360000,Transfer Bank,4
+1042,2026-01-19,Elektronik,Speaker Mini,Surabaya,1,95000,95000,Transfer Bank,4
+1116,2026-01-21,Olahraga,Matras Yoga,Malang,4,90000,360000,Transfer Bank,3
+1192,2026-01-23,Kesehatan,Masker Medis Box,Surabaya,3,30000,90000,Kartu Kredit,5
+1117,2026-01-24,Fashion,Tas Ransel,Malang,2,130000,260000,Transfer Bank,4
+1149,2026-01-24,Makanan & Minuman,Madu Hutan 250ml,Bandung,2,55000,110000,COD,4
+1217,2026-01-24,Fashion,Topi Baseball,Semarang,5,35000,175000,Transfer Bank,3
+1175,2026-01-25,Makanan & Minuman,Keripik Singkong,Makassar,1,15000,15000,Transfer Bank,4
+1009,2026-01-26,Kesehatan,Vitamin C Botol,Bandung,1,48000,48000,COD,5
+1102,2026-01-26,Fashion,Celana Jeans,Jakarta,3,175000,525000,E-Wallet,5
+1134,2026-01-26,Olahraga,Sarung Tangan Gym,Bandung,3,38000,114000,Transfer Bank,4
+1104,2026-01-27,Elektronik,Mouse Wireless,Makassar,2,65000,130000,E-Wallet,5
+1178,2026-01-28,Makanan & Minuman,Sambal Botol,Medan,1,22000,22000,Kartu Kredit,5
+1018,2026-01-29,Makanan & Minuman,Teh Celup Box,Malang,3,18000,54000,E-Wallet,4
+1046,2026-01-30,Elektronik,Mouse Wireless,Medan,3,65000,195000,COD,5
+1058,2026-01-30,Makanan & Minuman,Keripik Singkong,Jakarta,1,15000,15000,Transfer Bank,3
+1113,2026-01-30,Olahraga,Botol Minum 1L,Bandung,1,40000,40000,Transfer Bank,3
+1039,2026-01-31,Olahraga,Botol Minum 1L,Surabaya,2,40000,80000,Kartu Kredit,4
+1101,2026-01-31,Olahraga,Botol Minum 1L,Malang,3,40000,120000,COD,5
+1126,2026-01-31,Fashion,Topi Baseball,Malang,4,35000,140000,Kartu Kredit,4
+1188,2026-01-31,Elektronik,Speaker Mini,Semarang,2,95000,190000,E-Wallet,4
+1115,2026-02-01,Kesehatan,Vitamin C Botol,Denpasar,1,48000,48000,Kartu Kredit,2
+1051,2026-02-02,Elektronik,Kabel Data USB-C,Jakarta,1,25000,25000,COD,5
+1206,2026-02-03,Olahraga,Matras Yoga,Makassar,2,90000,180000,E-Wallet,5
+1071,2026-02-04,Kesehatan,Termometer Digital,Denpasar,5,60000,300000,Kartu Kredit,4
+1156,2026-02-05,Elektronik,Earphone Bluetooth,Surabaya,40,85000,3400000,E-Wallet,5
+1164,2026-02-07,Olahraga,Matras Yoga,Bandung,2,90000,180000,COD,5
+1075,2026-02-08,Fashion,Topi Baseball,Surabaya,2,35000,70000,Kartu Kredit,3
+1197,2026-02-08,Kesehatan,Masker Medis Box,Malang,1,30000,30000,Transfer Bank,5
+1016,2026-02-09,Fashion,Topi Baseball,Denpasar,1,35000,35000,COD,4
+1049,2026-02-11,Kesehatan,Termometer Digital,Surabaya,2,60000,120000,Transfer Bank,3
+1120,2026-02-11,Makanan & Minuman,Teh Celup Box,Semarang,2,18000,36000,Transfer Bank,4
+1035,2026-02-12,Kesehatan,Masker Medis Box,Denpasar,4,30000,120000,COD,4
+1118,2026-02-14,Kesehatan,Termometer Digital,Bandung,1,60000,60000,Kartu Kredit,3
+1165,2026-02-14,Elektronik,Earphone Bluetooth,Medan,3,85000,255000,COD,5
+1180,2026-02-16,Makanan & Minuman,Madu Hutan 250ml,Bandung,4,55000,220000,E-Wallet,4
+1088,2026-02-20,Elektronik,Mouse Wireless,Surabaya,2,65000,130000,COD,3
+1047,2026-02-22,Makanan & Minuman,Sambal Botol,Jakarta,1,22000,22000,Transfer Bank,4
+1187,2026-02-22,Makanan & Minuman,Keripik Singkong,Malang,3,15000,45000,COD,3
+1052,2026-02-23,Fashion,Kaos Polos,Semarang,1,45000,45000,E-Wallet,5
+1070,2026-02-26,Fashion,Tas Ransel,Surabaya,1,130000,130000,Kartu Kredit,5
+1079,2026-02-26,Makanan & Minuman,Teh Celup Box,Semarang,1,18000,18000,E-Wallet,4
+1056,2026-02-27,Elektronik,Power Bank 10000mAh,Surabaya,2,120000,240000,COD,5
+1067,2026-02-27,Fashion,Jaket Hoodie,Denpasar,4,150000,600000,Transfer Bank,4
+1084,2026-02-27,Elektronik,Earphone Bluetooth,Medan,3,85000,255000,Transfer Bank,2
+1209,2026-02-27,Fashion,Jaket Hoodie,Surabaya,5,150000,750000,Transfer Bank,5
+1003,2026-03-01,Olahraga,Skipping Rope,Semarang,3,32000,96000,E-Wallet,4
+1034,2026-03-02,Fashion,Topi Baseball,Semarang,1,35000,35000,Transfer Bank,4
+1053,2026-03-02,Fashion,Jaket Hoodie,Makassar,3,150000,450000,Kartu Kredit,4
+1041,2026-03-03,Makanan & Minuman,Teh Celup Box,Denpasar,4,18000,72000,COD,5
+1097,2026-03-03,Kesehatan,Minyak Kayu Putih,Denpasar,1,27000,27000,Kartu Kredit,4
+1110,2026-03-03,Fashion,Tas Ransel,Denpasar,3,130000,390000,Kartu Kredit,4
+1029,2026-03-04,Kesehatan,Minyak Kayu Putih,Semarang,3,27000,81000,COD,5
+1069,2026-03-04,Fashion,Kaos Polos,Surabaya,5,45000,225000,Kartu Kredit,3
+1107,2026-03-05,Elektronik,Mouse Wireless,Medan,3,65000,195000,Kartu Kredit,3
+1202,2026-03-05,Kesehatan,Minyak Kayu Putih,Makassar,1,27000,27000,COD,4
+1215,2026-03-06,Elektronik,Speaker Mini,Surabaya,4,95000,380000,Transfer Bank,3
+1014,2026-03-09,Fashion,Jaket Hoodie,Semarang,2,150000,300000,Kartu Kredit,3
+1185,2026-03-11,Fashion,Tas Ransel,Malang,4,130000,520000,Kartu Kredit,5
+1103,2026-03-12,Elektronik,Earphone Bluetooth,Bandung,1,85000,85000,Kartu Kredit,4
+1161,2026-03-12,Fashion,Kaos Polos,Surabaya,5,45000,225000,E-Wallet,4
+1096,2026-03-13,Olahraga,Resistance Band,Medan,1,55000,55000,Transfer Bank,4
+1066,2026-03-14,Olahraga,Skipping Rope,Medan,25,32000,800000,COD,5
+1129,2026-03-14,Makanan & Minuman,Sambal Botol,Bandung,1,22000,22000,Kartu Kredit,4
+1203,2026-03-14,Kesehatan,Minyak Kayu Putih,Jakarta,3,27000,81000,COD,3
+1214,2026-03-14,Kesehatan,Termometer Digital,Medan,25,60000,1500000,E-Wallet,4
+1216,2026-03-14,Elektronik,Power Bank 10000mAh,Bandung,2,120000,240000,Kartu Kredit,5
+1064,2026-03-15,Fashion,Topi Baseball,Makassar,3,35000,105000,Kartu Kredit,3
+1074,2026-03-15,Fashion,Celana Jeans,Surabaya,1,175000,175000,E-Wallet,5
+1199,2026-03-15,Elektronik,Earphone Bluetooth,Denpasar,1,85000,85000,Transfer Bank,4
+1111,2026-03-16,Elektronik,Power Bank 10000mAh,Denpasar,2,120000,240000,Transfer Bank,5
+1191,2026-03-16,Elektronik,Speaker Mini,Denpasar,4,95000,380000,COD,4
+1144,2026-03-19,Fashion,Topi Baseball,Semarang,3,35000,105000,COD,4
+1087,2026-03-21,Elektronik,Mouse Wireless,Semarang,4,65000,260000,Kartu Kredit,4
+1125,2026-03-21,Olahraga,Matras Yoga,Surabaya,2,90000,180000,Kartu Kredit,4
+1193,2026-03-21,Makanan & Minuman,Keripik Singkong,Surabaya,2,15000,30000,E-Wallet,5
+1213,2026-03-21,Kesehatan,Hand Sanitizer 100ml,Denpasar,1,20000,20000,Kartu Kredit,5
+1037,2026-03-22,Elektronik,Earphone Bluetooth,Bandung,1,85000,85000,Transfer Bank,4
+1132,2026-03-23,Kesehatan,Minyak Kayu Putih,Bandung,1,27000,27000,Kartu Kredit,5
+1131,2026-03-24,Fashion,Jaket Hoodie,Semarang,2,150000,300000,Transfer Bank,4
+1170,2026-03-24,Olahraga,Botol Minum 1L,Makassar,4,40000,160000,Kartu Kredit,5
+1082,2026-03-25,Fashion,Topi Baseball,Semarang,1,35000,35000,COD,5
+1139,2026-03-25,Elektronik,Kabel Data USB-C,Medan,1,25000,25000,Kartu Kredit,5
+1183,2026-03-25,Olahraga,Skipping Rope,Bandung,3,32000,96000,Transfer Bank,4
+1205,2026-03-27,Elektronik,Mouse Wireless,Malang,1,65000,65000,Kartu Kredit,3
+1151,2026-03-28,Elektronik,Speaker Mini,Medan,3,95000,285000,Kartu Kredit,4
+1005,2026-03-29,Makanan & Minuman,Keripik Singkong,Surabaya,3,15000,45000,Transfer Bank,5
+1057,2026-03-31,Olahraga,Sarung Tangan Gym,Makassar,1,38000,38000,Transfer Bank,3
+1194,2026-03-31,Makanan & Minuman,Keripik Singkong,Medan,3,15000,45000,E-Wallet,5
+1010,2026-04-01,Fashion,Celana Jeans,Surabaya,3,175000,525000,E-Wallet,3
+1100,2026-04-01,Kesehatan,Vitamin C Botol,Medan,3,48000,144000,COD,5
+1177,2026-04-01,Elektronik,Mouse Wireless,Denpasar,2,65000,130000,E-Wallet,4
+1198,2026-04-01,Olahraga,Matras Yoga,Jakarta,3,90000,270000,COD,5
+1015,2026-04-03,Fashion,Jaket Hoodie,Jakarta,3,150000,450000,Transfer Bank,4
+1208,2026-04-03,Makanan & Minuman,Keripik Singkong,Denpasar,6,15000,90000,E-Wallet,4
+1044,2026-04-05,Makanan & Minuman,Keripik Singkong,Malang,1,15000,15000,Transfer Bank,5
+1153,2026-04-05,Makanan & Minuman,Sambal Botol,Makassar,2,22000,44000,Transfer Bank,5
+1020,2026-04-06,Fashion,Tas Ransel,Jakarta,8,130000,1040000,COD,4
+1174,2026-04-06,Fashion,Topi Baseball,Surabaya,7,35000,245000,Kartu Kredit,5
+1006,2026-04-08,Elektronik,Kabel Data USB-C,Jakarta,5,25000,125000,Kartu Kredit,3
+1078,2026-04-10,Kesehatan,Termometer Digital,Medan,4,60000,240000,Kartu Kredit,3
+1218,2026-04-12,Olahraga,Resistance Band,Makassar,4,55000,220000,E-Wallet,5
+1025,2026-04-13,Makanan & Minuman,Teh Celup Box,Medan,6,18000,108000,E-Wallet,4
+1169,2026-04-13,Kesehatan,Masker Medis Box,Surabaya,1,30000,30000,Transfer Bank,4
+1031,2026-04-14,Makanan & Minuman,Kopi Kemasan 200g,Denpasar,4,28000,112000,E-Wallet,5
+1076,2026-04-15,Makanan & Minuman,Sambal Botol,Semarang,3,22000,66000,Kartu Kredit,4
+1176,2026-04-16,Makanan & Minuman,Teh Celup Box,Malang,6,18000,108000,COD,3
+1158,2026-04-17,Elektronik,Speaker Mini,Malang,25,95000,2375000,Transfer Bank,3
+1063,2026-04-18,Kesehatan,Hand Sanitizer 100ml,Jakarta,2,20000,40000,COD,4
+1083,2026-04-18,Makanan & Minuman,Kopi Kemasan 200g,Jakarta,1,28000,28000,COD,5
+1030,2026-04-19,Kesehatan,Minyak Kayu Putih,Surabaya,4,27000,108000,Transfer Bank,4
+1032,2026-04-19,Fashion,Celana Jeans,Surabaya,1,175000,175000,Kartu Kredit,5
+1036,2026-04-19,Olahraga,Sarung Tangan Gym,Jakarta,5,38000,190000,Transfer Bank,5
+1061,2026-04-21,Elektronik,Kabel Data USB-C,Surabaya,1,25000,25000,COD,3
+1092,2026-04-22,Fashion,Tas Ransel,Denpasar,5,130000,650000,Kartu Kredit,4
+1093,2026-04-22,Olahraga,Resistance Band,Surabaya,3,55000,165000,COD,5
+1138,2026-04-22,Elektronik,Earphone Bluetooth,Jakarta,1,85000,85000,Transfer Bank,5
+1065,2026-04-24,Kesehatan,Hand Sanitizer 100ml,Bandung,1,20000,20000,Transfer Bank,4
+1143,2026-04-24,Makanan & Minuman,Sambal Botol,Malang,2,22000,44000,Kartu Kredit,5
+1212,2026-04-24,Olahraga,Resistance Band,Medan,4,55000,220000,E-Wallet,3
+1004,2026-04-25,Olahraga,Resistance Band,Bandung,4,55000,220000,Kartu Kredit,4
+1098,2026-04-25,Elektronik,Earphone Bluetooth,Medan,3,85000,255000,COD,5
+1094,2026-04-26,Fashion,Topi Baseball,Makassar,1,35000,35000,Transfer Bank,4
+1108,2026-04-26,Kesehatan,Vitamin C Botol,Malang,8,48000,384000,Transfer Bank,2
+1200,2026-04-26,Olahraga,Botol Minum 1L,Bandung,3,40000,120000,Transfer Bank,5
+1201,2026-04-26,Elektronik,Kabel Data USB-C,Bandung,5,25000,125000,Transfer Bank,4
+1068,2026-04-27,Kesehatan,Termometer Digital,Denpasar,5,60000,300000,Kartu Kredit,5
+1121,2026-04-27,Elektronik,Kabel Data USB-C,Semarang,4,25000,100000,Transfer Bank,5
+1173,2026-04-27,Kesehatan,Minyak Kayu Putih,Makassar,3,27000,81000,COD,4
+1080,2026-04-30,Fashion,Tas Ransel,Jakarta,1,130000,130000,Transfer Bank,4
+1055,2026-05-01,Fashion,Jaket Hoodie,Malang,5,150000,750000,E-Wallet,3
+1135,2026-05-01,Makanan & Minuman,Madu Hutan 250ml,Surabaya,2,55000,110000,COD,4
+1167,2026-05-02,Kesehatan,Vitamin C Botol,Medan,3,48000,144000,Transfer Bank,4
+1127,2026-05-04,Kesehatan,Hand Sanitizer 100ml,Medan,3,20000,60000,E-Wallet,4
+1021,2026-05-06,Elektronik,Earphone Bluetooth,Malang,25,85000,2125000,E-Wallet,4
+1091,2026-05-06,Elektronik,Speaker Mini,Denpasar,7,95000,665000,E-Wallet,4
+1095,2026-05-07,Makanan & Minuman,Keripik Singkong,Malang,2,15000,30000,COD,4
+1141,2026-05-08,Olahraga,Botol Minum 1L,Denpasar,40,40000,1600000,COD,5
+1189,2026-05-09,Olahraga,Resistance Band,Jakarta,7,55000,385000,Kartu Kredit,5
+1019,2026-05-10,Elektronik,Kabel Data USB-C,Medan,5,25000,125000,E-Wallet,3
+1062,2026-05-10,Makanan & Minuman,Teh Celup Box,Bandung,2,18000,36000,E-Wallet,5
+1038,2026-05-11,Elektronik,Power Bank 10000mAh,Medan,4,120000,480000,Kartu Kredit,4
+1028,2026-05-12,Fashion,Celana Jeans,Bandung,3,175000,525000,Kartu Kredit,4
+1186,2026-05-15,Makanan & Minuman,Kopi Kemasan 200g,Jakarta,5,28000,140000,Transfer Bank,5
+1024,2026-05-16,Olahraga,Sarung Tangan Gym,Medan,8,38000,304000,COD,4
+1150,2026-05-16,Olahraga,Resistance Band,Denpasar,4,55000,220000,COD,4
+1182,2026-05-16,Fashion,Topi Baseball,Makassar,2,35000,70000,COD,5
+1011,2026-05-17,Fashion,Jaket Hoodie,Medan,2,150000,300000,COD,4
+1023,2026-05-17,Fashion,Jaket Hoodie,Bandung,1,150000,150000,COD,2
+1090,2026-05-17,Kesehatan,Vitamin C Botol,Jakarta,6,48000,288000,Kartu Kredit,5
+1007,2026-05-18,Elektronik,Speaker Mini,Makassar,5,95000,475000,E-Wallet,5
+1043,2026-05-18,Fashion,Tas Ransel,Surabaya,3,130000,390000,E-Wallet,5
+1130,2026-05-18,Kesehatan,Vitamin C Botol,Semarang,2,48000,96000,Kartu Kredit,5
+1157,2026-05-18,Fashion,Topi Baseball,Semarang,1,35000,35000,E-Wallet,5
+1033,2026-05-21,Elektronik,Earphone Bluetooth,Jakarta,2,85000,170000,Transfer Bank,3
+1072,2026-05-21,Kesehatan,Hand Sanitizer 100ml,Malang,4,20000,80000,E-Wallet,3
+1017,2026-05-22,Elektronik,Earphone Bluetooth,Malang,3,85000,255000,COD,3
+1152,2026-05-23,Makanan & Minuman,Kopi Kemasan 200g,Surabaya,4,28000,112000,Kartu Kredit,4
+1179,2026-05-24,Olahraga,Skipping Rope,Malang,2,32000,64000,Transfer Bank,3
+1140,2026-05-25,Fashion,Jaket Hoodie,Semarang,5,150000,750000,E-Wallet,5
+1181,2026-05-25,Kesehatan,Masker Medis Box,Jakarta,6,30000,180000,Transfer Bank,5
+1196,2026-05-25,Olahraga,Sarung Tangan Gym,Makassar,2,38000,76000,COD,3
+1013,2026-05-26,Makanan & Minuman,Keripik Singkong,Denpasar,3,15000,45000,E-Wallet,4
+1060,2026-05-28,Fashion,Celana Jeans,Medan,6,175000,1050000,COD,5
+1106,2026-05-28,Elektronik,Power Bank 10000mAh,Malang,5,120000,600000,Transfer Bank,5
+1145,2026-05-28,Makanan & Minuman,Madu Hutan 250ml,Semarang,8,55000,440000,COD,5
+1077,2026-05-30,Elektronik,Mouse Wireless,Makassar,4,65000,260000,COD,4
+1059,2026-06-02,Kesehatan,Vitamin C Botol,Surabaya,2,48000,96000,Kartu Kredit,4
+1171,2026-06-02,Olahraga,Resistance Band,Surabaya,1,55000,55000,Transfer Bank,5
+1195,2026-06-04,Fashion,Kaos Polos,Denpasar,4,45000,180000,Kartu Kredit,5
+1147,2026-06-05,Makanan & Minuman,Keripik Singkong,Bandung,1,15000,15000,Transfer Bank,3
+1109,2026-06-06,Elektronik,Power Bank 10000mAh,Surabaya,2,120000,240000,E-Wallet,4
+1137,2026-06-08,Elektronik,Power Bank 10000mAh,Medan,1,120000,120000,Transfer Bank,3
+1085,2026-06-09,Fashion,Jaket Hoodie,Medan,4,150000,600000,Kartu Kredit,5
+1123,2026-06-10,Kesehatan,Masker Medis Box,Malang,3,30000,90000,Kartu Kredit,5
+1148,2026-06-10,Elektronik,Kabel Data USB-C,Makassar,3,25000,75000,E-Wallet,4
+1048,2026-06-12,Kesehatan,Vitamin C Botol,Bandung,4,48000,192000,COD,5
+1119,2026-06-12,Kesehatan,Masker Medis Box,Makassar,1,30000,30000,Transfer Bank,4
+1001,2026-06-13,Elektronik,Earphone Bluetooth,Bandung,2,85000,170000,Transfer Bank,4
+1073,2026-06-13,Makanan & Minuman,Sambal Botol,Denpasar,1,22000,22000,Transfer Bank,4
+1081,2026-06-14,Kesehatan,Hand Sanitizer 100ml,Malang,3,20000,60000,Kartu Kredit,4
+1162,2026-06-14,Olahraga,Matras Yoga,Bandung,4,90000,360000,E-Wallet,5
+1155,2026-06-15,Elektronik,Speaker Mini,Semarang,4,95000,380000,Transfer Bank,4
+1172,2026-06-17,Olahraga,Botol Minum 1L,Semarang,1,40000,40000,COD,5
+1040,2026-06-18,Olahraga,Skipping Rope,Medan,1,32000,32000,COD,4
+1122,2026-06-18,Olahraga,Sarung Tangan Gym,Makassar,2,38000,76000,Kartu Kredit,5
+1168,2026-06-18,Olahraga,Resistance Band,Jakarta,1,55000,55000,Kartu Kredit,5
+1099,2026-06-19,Olahraga,Resistance Band,Semarang,1,55000,55000,COD,4
+1210,2026-06-19,Makanan & Minuman,Sambal Botol,Bandung,3,22000,66000,E-Wallet,5
+1045,2026-06-20,Olahraga,Resistance Band,Bandung,3,55000,165000,COD,4
+1142,2026-06-20,Elektronik,Speaker Mini,Bandung,4,95000,380000,Transfer Bank,4
+1054,2026-06-21,Fashion,Celana Jeans,Semarang,4,175000,700000,Transfer Bank,5
+1207,2026-06-21,Olahraga,Matras Yoga,Makassar,2,90000,180000,Transfer Bank,4
+1136,2026-06-22,Olahraga,Sarung Tangan Gym,Denpasar,5,38000,190000,Transfer Bank,4
+1154,2026-06-22,Fashion,Topi Baseball,Makassar,6,35000,210000,E-Wallet,5
+1184,2026-06-22,Elektronik,Kabel Data USB-C,Denpasar,1,25000,25000,Kartu Kredit,5
+1002,2026-06-23,Olahraga,Matras Yoga,Surabaya,2,90000,180000,E-Wallet,4
+1089,2026-06-25,Olahraga,Matras Yoga,Jakarta,3,90000,270000,COD,3
+1112,2026-06-25,Fashion,Celana Jeans,Medan,3,175000,525000,Kartu Kredit,3
+1160,2026-06-25,Makanan & Minuman,Sambal Botol,Jakarta,4,22000,88000,Kartu Kredit,4
+1050,2026-06-26,Fashion,Tas Ransel,Bandung,4,130000,520000,Kartu Kredit,4
+1159,2026-06-26,Makanan & Minuman,Keripik Singkong,Makassar,1,15000,15000,Transfer Bank,5
+1211,2026-06-27,Olahraga,Botol Minum 1L,Makassar,2,40000,80000,E-Wallet,4
+1124,2026-06-28,Kesehatan,Masker Medis Box,Medan,5,30000,150000,E-Wallet,5
+1086,2026-06-29,Makanan & Minuman,Madu Hutan 250ml,Surabaya,4,55000,220000,E-Wallet,5
+1008,2026-06-30,Elektronik,Earphone Bluetooth,Surabaya,1,85000,85000,E-Wallet,3
