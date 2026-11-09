@@ -2,9 +2,7 @@
 ## Modul Ajar KKA 3 — Analisis dan Visualisasi Data (AVD)
 
 **Dataset:** `penjualan_nusantaramart.csv`  
-**Sumber kode praktikum:** `praktikum1.py` sampai `praktikum6.py` dari `praktikum_visualisasi.zip`
-
-> Dokumen ini hanya berisi soal dan jawaban analisis Bagian C (Latihan 1–6). Kode Python tetap menggunakan file yang sudah tersedia di dalam ZIP dan tidak dibuat ulang di sini.
+**Sumber kode praktikum:** `praktikum1.py` sampai `praktikum6.py`
 
 ---
 
